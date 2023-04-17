@@ -5,5 +5,7 @@ class hello{
         System.out.println("See you, world!");
         //こんなのを追加してみました
         System.out.println("Fuck you!!!");
+        //ならば答えよう
+        System.out.println("Shut up!!!");
     }
 }
