@@ -3,5 +3,7 @@ class hello{
         System.out.println("Hello, World!");
         //以下にSee you, world!と出力するコードを追加
         System.out.println("See you, world!");
+        //こんなのを追加してみました
+        System.out.println("Fuck you!!!");
     }
 }
